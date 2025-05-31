@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+
+h1{
+    color:aqua ;
+    font-size: 80px;
+}
+
+button{
+    width: 200px;
+    height: 180px;
+    margin: 0 auto;
+    font-size: 150px;
+}
+.A{
+   color: #7C4585;
+   background-image:url("/images/tom1.png") ;
+}
+.B{
+    color: #4F1C51;
+       background-image:url("/images/tom2.png") ;
+
+}
+.C{
+    color:#504B38;
+       background-image:url("/images/tom3.png") ;
+
+}
+.D{
+    color:#2D336B;
+       background-image:url("/images/tom4.png") ;
+
+}
+.E{ 
+   background-image:url("/images/kick.png") ;
+    color:#4B164C;}
